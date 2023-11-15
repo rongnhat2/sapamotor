@@ -14,15 +14,17 @@
             </div>
             <div class="wrapper">
                 <div class="about-wrapper">
-                    <h3 class="about-title">About</h3>
-                    <p class="about-description"> Established in 2010, AMBO Technologies sells electronic equipment and electronic components. We also provide OEM and ODM services for Viet Nam as long as global companies. We have strong knowledge about designing industrial automation, automotive, telecommunication, and power electronics products.</p>
-
-                    <p class="about-description">We have strong partnerships with various electronics component distributors and mechanical engineering service companies. Our mission is to help our clients to design and manufacture the best electronic products. ATMS was spun off from AMBO's R&D department in 2023.</p>
+                    <h3 class="about-title">About us</h3>
+                    <p class="about-description"> Established in 2013, SAPA Motor sells electronic equipment, electronic components. We also provides OEM, ODM services for Viet Nam as long as global companies.</p>
+                    <p>We have strong knowledge about designing products in domain of industrial automation, automotive, telecommunication, power electronics.</p>
+                    <p>We have solid partners of many companies about electronics component distributors, mechanical engineering service companies.</p>
+                    <p>Our mission is helping the clients to design and manufacture the best electronic products.</p> 
                 </div>
             <img src="{{ asset("assets/images/map.png") }}" alt="">
             </div>
         </div>
 @endsection()
+
 @section('js') 
 
 @endsection()
